@@ -64,7 +64,7 @@ Includes:
 ![Overview](Overview.png)
 
 ### Customer Analysis
-![Customer Analysis](Customer.png)
+![Customer Analysis](Customers.png)
 
 ### Product Analysis
 ![Product Analysis](Product.png)
