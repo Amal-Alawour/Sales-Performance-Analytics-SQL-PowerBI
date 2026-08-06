@@ -1,5 +1,8 @@
 # Sales Performance Analytics Dashboard
 
+
+![Dashboard](overview.png)
+
 ## Project Overview
 An end-to-end Sales Analytics project built using SQL Server and Power BI.  
 The project focuses on analyzing sales performance, customer behavior, and product insights through interactive dashboards.
