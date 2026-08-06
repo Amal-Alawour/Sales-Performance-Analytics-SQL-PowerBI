@@ -1,0 +1,20 @@
+# SQL Scripts
+
+This folder contains SQL scripts used in the Sales Analytics project.
+
+## Files
+
+### Create_Tables.sql
+Creates the database structure and tables:
+- Customers
+- Products
+- Sales
+
+### Insert_Data.sql
+Loads sample data into the database tables.
+
+### Analysis_Queries.sql
+Contains analytical SQL queries to evaluate:
+- Sales performance
+- Customer insights
+- Product performance
