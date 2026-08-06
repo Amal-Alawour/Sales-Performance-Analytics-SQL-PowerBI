@@ -64,10 +64,10 @@ Includes:
 ![Overview](Overview.png)
 
 ### Customer Analysis
-![Customer Analysis](Customer_Analysis.png)
+![Customer Analysis](Customer.png)
 
 ### Product Analysis
-![Product Analysis](Product_Analysis.png)
+![Product Analysis](Product.png)
 
 ## Conclusion
 This project demonstrates an end-to-end data analytics workflow, starting from database creation and SQL analysis to building interactive Power BI dashboards.
